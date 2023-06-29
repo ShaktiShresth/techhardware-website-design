@@ -274,7 +274,7 @@ body{
     height: 12rem;
     width: 13rem;
     margin: auto;
-    background-image: url("images/pc-cases.png");
+    background-image: url("images/gpu.png");
     background-repeat: no-repeat no-repeat;
     background-position: center;
     background-size: cover;
@@ -408,7 +408,9 @@ body{
     margin: 1rem auto;
     height: 10rem;
     width: 18rem;
-    background-image: url("images/featured-img.png");
+    height: 250px;
+    width: 250px;
+    background-image: url("images/speaker.png");
     background-repeat: no-repeat no-repeat;
     background-position: center;
     background-size: cover;
